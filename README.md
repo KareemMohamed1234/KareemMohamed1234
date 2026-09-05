@@ -150,7 +150,7 @@ A serverless feedback and contact application built using AWS services.
 
 ### 🏆 Soc analysis
 
-## 📄 [View Certificate](./certificas/soc-certfiac.jpg)
+## 📄 [View Certificate](./certificas/soc-certfica.jpg)
 
 ---
 
