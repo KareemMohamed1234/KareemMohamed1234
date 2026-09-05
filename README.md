@@ -140,13 +140,19 @@ A serverless feedback and contact application built using AWS services.
 
 ## 📄 [View Certificate](./certificas/cloud-foundition.pdf)
 
+---
+
 ### 🏆 Malware analysis
 
 ## 📄 [View Certificate](./certificas/malware-analysis.pdf)
 
+---
+
 ### 🏆 Soc analysis
 
-📄 [View Certificate](./certificas/soc-certfiac.jpg)
+## 📄 [View Certificate](./certificas/soc-certfiac.jpg)
+
+---
 
 # 🧰 Tools & Skills
 
