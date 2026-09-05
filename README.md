@@ -13,11 +13,11 @@
 </p>
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"/>
+  <a href="https://github.com/KareemMohamed1234">
+    <img src="https://img.shields.io/github/followers/KareemMohamed1234?label=Followers&style=for-the-badge"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge"/>
+  <a href="https://github.com/KareemMohamed1234?tab=repositories">
+    <img src="https://img.shields.io/github/stars/KareemMohamed1234?label=Stars&style=for-the-badge"/>
   </a>
 </p>
 
