@@ -206,7 +206,7 @@ A serverless feedback and contact application built using AWS services.
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/https://github.com/KareemMohamed1234">
+<a href="https://github.com/KareemMohamed1234">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
