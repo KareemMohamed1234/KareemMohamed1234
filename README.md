@@ -138,11 +138,11 @@ A serverless feedback and contact application built using AWS services.
 
 ### 🏆 Cloud Foundition
 
-📄 [View Certificate](./certificas/cloud-foundition.pdf)
+## 📄 [View Certificate](./certificas/cloud-foundition.pdf)
 
 ### 🏆 Malware analysis
 
-📄 [View Certificate](./certificas/malware-analysis.pdf)
+## 📄 [View Certificate](./certificas/malware-analysis.pdf)
 
 ### 🏆 Soc analysis
 
