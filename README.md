@@ -113,9 +113,6 @@ A serverless feedback and contact application built using AWS services.
 
 # 📜 Certifications & Training
 
-> Add your certificates here.
-> You can upload the certificate images to your repository and put their paths below.
-
 ## 📜 Certifications
 
 ### 🏆 AWS Cloud Practitioner
