@@ -136,7 +136,7 @@ A serverless feedback and contact application built using AWS services.
 
 ---
 
-### 🏆 Cloud foundition
+### 🏆 Cloud Foundition
 
 📄 [View Certificate](./certificas/cloud-foundition.pdf)
 
