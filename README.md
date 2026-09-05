@@ -31,14 +31,14 @@ I'm **Kareem Mohamed**, a Cybersecurity student interested in building secure, s
 
 My main interests are:
 
-* 🔐 Cybersecurity
-* ☁️ AWS & Cloud Security
-* 🌐 Network Security
-* 🐧 Linux & Red Hat Administration
-* 🔥 Firewall Administration
-* 🛡️ Web Application Security
-* 🕵️ Penetration Testing & Security Testing
-* ⚙️ Cloud Infrastructure & Automation
+- 🔐 Cybersecurity
+- ☁️ AWS & Cloud Security
+- 🌐 Network Security
+- 🐧 Linux & Red Hat Administration
+- 🔥 Firewall Administration
+- 🛡️ Web Application Security
+- 🕵️ Penetration Testing & Security Testing
+- ⚙️ Cloud Infrastructure & Automation
 
 I'm continuously improving my practical skills through **hands-on labs, projects, security research, and cloud environments**.
 
@@ -105,110 +105,50 @@ A serverless feedback and contact application built using AWS services.
 
 ### Technologies
 
-* Amazon S3
-* Amazon CloudFront
-* API Gateway
-* AWS Lambda
-* DynamoDB
-* Amazon SNS
-* Python
-
-🔗 **Project:**
-
-<!-- ADD YOUR PROJECT LINK HERE -->
-
----
-
-## 🔐 Cybersecurity Projects
-
-<!-- ADD YOUR CYBERSECURITY PROJECTS HERE -->
-
-### 🛡️ Project Name
-
-**Description:**
-
-<!-- Write a short description here -->
-
-**Technologies:**
-`Python` `Linux` `Burp Suite` `Networking`
-
-🔗 **Repository:**
-
-<!-- ADD PROJECT LINK HERE -->
-
----
-
-## 🌐 Networking Projects
-
-<!-- ADD YOUR NETWORKING PROJECTS HERE -->
-
-### 🌐 Project Name
-
-**Description:**
-
-<!-- Write project description here -->
-
-**Technologies:**
-`Networking` `Linux` `Cisco` `Wireshark`
-
-🔗 **Repository:**
-
-<!-- ADD PROJECT LINK HERE -->
-
----
+- Amazon S3
+- Amazon CloudFront
+- API Gateway
+- AWS Lambda
+- DynamoDB
+- Amazon SNS
+- Python
 
 # 📜 Certifications & Training
 
 > Add your certificates here.
 > You can upload the certificate images to your repository and put their paths below.
 
-### 🏆 Certificate 01
+## 📜 Certifications
 
-<!-- ADD CERTIFICATE IMAGE HERE -->
+### 🏆 AWS Cloud Practitioner
 
-**Certificate Name:**
-
-<!-- ADD NAME HERE -->
-
-**Provider:**
-
-<!-- ADD PROVIDER HERE -->
+📄 [View Certificate](./certificates/AWS-Cloud-Practitioner.pdf)
 
 ---
 
-### 🏆 Certificate 02
+### 🏆 Red Hat Administration
 
-<!-- ADD CERTIFICATE IMAGE HERE -->
-
-**Certificate Name:**
-
-<!-- ADD NAME HERE -->
-
-**Provider:**
-
-<!-- ADD PROVIDER HERE -->
+📄 [View Certificate](./certificas/RedHat-Administration.pdf)
 
 ---
 
-### 🏆 Certificate 03
+### 🏆 Computer Networks
 
-<!-- ADD CERTIFICATE IMAGE HERE -->
-
-**Certificate Name:**
-
-<!-- ADD NAME HERE -->
-
-**Provider:**
-
-<!-- ADD PROVIDER HERE -->
+📄 [View Certificate](./certificas/Computer-Networks.pdf)
 
 ---
 
-### 🏆 More Certifications
+### 🏆 Cloud foundition
 
-<!-- ADD MORE CERTIFICATES HERE -->
+📄 [View Certificate](./certificas/cloud-foundition.pdf)
 
----
+### 🏆 Malware analysis
+
+📄 [View Certificate](./certificas/malware-analysis.pdf)
+
+### 🏆 Soc analysis
+
+📄 [View Certificate](./certificas/soc-certfiac.jpg)
 
 # 🧰 Tools & Skills
 
@@ -220,7 +160,7 @@ A serverless feedback and contact application built using AWS services.
 | 🐧 Linux       | Linux, Red Hat, Bash, System Administration                  |
 | 💻 Programming | Python, C++, SQL, JavaScript                                 |
 | 🔎 Recon       | Subfinder, Assetfinder, httpx, Waybackurls, Katana           |
-| 🛠️ DevOps     | Git, GitHub, Linux Automation                                |
+| 🛠️ DevOps      | Git, GitHub, Linux Automation                                |
 
 ---
 
@@ -274,13 +214,13 @@ A serverless feedback and contact application built using AWS services.
 
 # 🎯 2026 Goals
 
-* ☁️ Build stronger AWS Cloud Security skills
-* 🔐 Improve penetration testing methodology
-* 🐧 Master Linux & Red Hat administration
-* 🌐 Strengthen network security knowledge
-* ⚙️ Learn infrastructure automation
-* 🚀 Build more real-world cloud security projects
-* 📚 Continue earning relevant certifications
+- ☁️ Build stronger AWS Cloud Security skills
+- 🔐 Improve penetration testing methodology
+- 🐧 Master Linux & Red Hat administration
+- 🌐 Strengthen network security knowledge
+- ⚙️ Learn infrastructure automation
+- 🚀 Build more real-world cloud security projects
+- 📚 Continue earning relevant certifications
 
 ---
 
