@@ -1,155 +1,313 @@
+<div align="center">
+
 # 👋 Hi, I'm Kareem Mohamed
 
-### 🛡️ Cybersecurity Student | ☁️ AWS Cloud Security Enthusiast
+### 🛡️ Cybersecurity Student | ☁️ AWS Cloud Security | 🌐 Network Security
 
-I'm Kareem Mohamed, a Cybersecurity student at **Menoufia University** with a strong interest in **Cloud Security, AWS, Penetration Testing, and Security Engineering**.
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-0A66C2?style=for-the-badge&logo=cisco&logoColor=white"/>
+</p>
 
-I'm currently building my skills in cybersecurity and cloud technologies through hands-on projects, labs, certifications, and continuous learning.
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
+    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?label=Stars&style=for-the-badge"/>
+  </a>
+</p>
 
----
-
-## 🛡️ About Me
-
-* 🎓 Cybersecurity Student at Menoufia University
-* ☁️ Interested in **AWS & Cloud Security**
-* 🔐 Interested in **Web Security & Penetration Testing**
-* 🐧 Working with **Linux & Red Hat**
-* 🌐 Studying **Computer Networks**
-* 💻 Programming with **Python, C++, Bash & SQL**
-* 🚀 Building practical cybersecurity and cloud projects
-* 📚 Always learning and improving my technical skills
-
----
-
-## 🏆 Certifications & Training
-
-### ☁️ Cloud & AWS
-
-* **AWS Academy Graduate – Cloud Foundations**
-
-  * AWS Academy
-  * 20 Hours
-  * [Verify on Credly](https://www.credly.com/go/DAKcwpnY)
-
-* **AWS Solutions Architect**
-
-  * AWS / Cloud Architecture Training
-
-### 🐧 Linux & Red Hat
-
-* **Red Hat System Administration I**
-
-  * MaharaTech
-
-### 🌐 Networking
-
-* **Computer Networks**
-
-  * Networking Fundamentals & Concepts
+</div>
 
 ---
 
-## 💻 Technical Skills
+## 👨‍💻 About Me
 
-### ☁️ Cloud & AWS
+I'm **Kareem Mohamed**, a Cybersecurity student interested in building secure, scalable, and cloud-based infrastructure.
 
-`AWS` `IAM` `S3` `Lambda` `API Gateway` `CloudFront` `DynamoDB` `SNS`
+My main interests are:
 
-### 🔐 Cybersecurity
+* 🔐 Cybersecurity
+* ☁️ AWS & Cloud Security
+* 🌐 Network Security
+* 🐧 Linux & Red Hat Administration
+* 🔥 Firewall Administration
+* 🛡️ Web Application Security
+* 🕵️ Penetration Testing & Security Testing
+* ⚙️ Cloud Infrastructure & Automation
 
-`Web Security` `Penetration Testing` `Bug Bounty` `Reconnaissance` `Vulnerability Assessment`
-
-### 🛠️ Security Tools
-
-`Burp Suite` `Nmap` `Wireshark` `Nessus` `Subfinder` `httpx` `Kali Linux`
-
-### 🐧 Linux
-
-`Linux` `Ubuntu` `Kali Linux` `Red Hat`
-
-### 💻 Programming
-
-`Python` `C++` `Bash` `SQL`
+I'm continuously improving my practical skills through **hands-on labs, projects, security research, and cloud environments**.
 
 ---
 
-## 🚀 Featured Projects
+## ☁️ Cloud & Cybersecurity
 
-### ☁️ AWS Serverless Feedback & Contact Form
+### ☁️ Cloud
 
-A serverless feedback and contact form built using AWS cloud services.
+<p>
+<img src="https://img.shields.io/badge/Amazon%20Web%20Services-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazoniam&logoColor=white"/>
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge&logo=amazonapigateway&logoColor=white"/>
+<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazoncloudfront&logoColor=white"/>
+</p>
+
+### 🔐 Security
+
+<p>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge"/>
+</p>
+
+### 🐧 Systems & Networking
+
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+## 💻 Programming & Technologies
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+## ☁️ AWS Serverless Feedback & Contact Form
+
+A serverless feedback and contact application built using AWS services.
 
 **Architecture:**
 
-`S3` → `CloudFront`
+`CloudFront → S3 → API Gateway → Lambda → DynamoDB`
 
-`API Gateway` → `Lambda` → `DynamoDB`
+`Lambda → SNS`
 
-`Lambda` → `SNS`
+### Technologies
+
+* Amazon S3
+* Amazon CloudFront
+* API Gateway
+* AWS Lambda
+* DynamoDB
+* Amazon SNS
+* Python
+
+🔗 **Project:**
+
+<!-- ADD YOUR PROJECT LINK HERE -->
+
+---
+
+## 🔐 Cybersecurity Projects
+
+<!-- ADD YOUR CYBERSECURITY PROJECTS HERE -->
+
+### 🛡️ Project Name
+
+**Description:**
+
+<!-- Write a short description here -->
 
 **Technologies:**
+`Python` `Linux` `Burp Suite` `Networking`
 
-`AWS` `Python` `Lambda` `S3` `CloudFront` `API Gateway` `DynamoDB` `SNS`
+🔗 **Repository:**
 
-🔗 **[View Project](YOUR_PROJECT_LINK)**
-
----
-
-### 🔐 Cybersecurity Projects
-
-I'm continuously working on practical cybersecurity projects and labs covering:
-
-* Web Application Security
-* Vulnerability Assessment
-* Reconnaissance
-* AWS Cloud Security
-  
+<!-- ADD PROJECT LINK HERE -->
 
 ---
 
-## 📚 Currently Learning
+## 🌐 Networking Projects
 
-* ☁️ AWS Cloud Security
-* 🔐 AWS IAM & Security
-* 🛡️ Web Application Security
-* 🐧 Red Hat Administration
-* 🌐 Network Security
-* 🔎 Penetration Testing
-* ⚙️ Cloud Security Engineering
+<!-- ADD YOUR NETWORKING PROJECTS HERE -->
 
----
+### 🌐 Project Name
 
-## 🧰 Tools & Technologies
+**Description:**
 
-<p align="left">
+<!-- Write project description here -->
 
-<img src="https://skillicons.dev/icons?i=python,cpp,bash,linux,aws,mysql,git,github" />
+**Technologies:**
+`Networking` `Linux` `Cisco` `Wireshark`
 
-</p>
+🔗 **Repository:**
+
+<!-- ADD PROJECT LINK HERE -->
 
 ---
 
-## 📊 GitHub Stats
+# 📜 Certifications & Training
 
-<p align="center">
+> Add your certificates here.
+> You can upload the certificate images to your repository and put their paths below.
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+### 🏆 Certificate 01
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<!-- ADD CERTIFICATE IMAGE HERE -->
 
-</p>
+**Certificate Name:**
+
+<!-- ADD NAME HERE -->
+
+**Provider:**
+
+<!-- ADD PROVIDER HERE -->
 
 ---
 
-## 📫 Connect With Me
+### 🏆 Certificate 02
 
-* 💼 LinkedIn: **YOUR_LINKEDIN**
-* 📧 Email: ****
-* 🐙 GitHub: **YOUR_GITHUB_USERNAME**
+<!-- ADD CERTIFICATE IMAGE HERE -->
+
+**Certificate Name:**
+
+<!-- ADD NAME HERE -->
+
+**Provider:**
+
+<!-- ADD PROVIDER HERE -->
 
 ---
 
-### 🚀 "Learning today, securing tomorrow."
+### 🏆 Certificate 03
 
-Thanks for visiting my profile! ⭐
+<!-- ADD CERTIFICATE IMAGE HERE -->
 
+**Certificate Name:**
+
+<!-- ADD NAME HERE -->
+
+**Provider:**
+
+<!-- ADD PROVIDER HERE -->
+
+---
+
+### 🏆 More Certifications
+
+<!-- ADD MORE CERTIFICATES HERE -->
+
+---
+
+# 🧰 Tools & Skills
+
+| Category       | Technologies                                                 |
+| -------------- | ------------------------------------------------------------ |
+| ☁️ Cloud       | AWS, IAM, S3, Lambda, API Gateway, DynamoDB, CloudFront, SNS |
+| 🔐 Security    | Burp Suite, Nmap, Wireshark, Metasploit, Kali Linux          |
+| 🌐 Networking  | TCP/IP, DNS, HTTP/HTTPS, Firewalls, Network Troubleshooting  |
+| 🐧 Linux       | Linux, Red Hat, Bash, System Administration                  |
+| 💻 Programming | Python, C++, SQL, JavaScript                                 |
+| 🔎 Recon       | Subfinder, Assetfinder, httpx, Waybackurls, Katana           |
+| 🛠️ DevOps     | Git, GitHub, Linux Automation                                |
+
+---
+
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<!-- ADD SNAKE CONTRIBUTION IMAGE HERE -->
+
+</div>
+
+---
+
+# 📚 Currently Learning
+
+```text
+☁️ AWS Cloud Security
+🔐 Cloud Infrastructure Security
+🐧 Advanced Linux / Red Hat Administration
+🌐 Network Security
+🛡️ Web Application Security
+⚙️ Infrastructure Automation
+🔎 Security Testing & Reconnaissance
+```
+
+---
+
+# 🎯 2026 Goals
+
+* ☁️ Build stronger AWS Cloud Security skills
+* 🔐 Improve penetration testing methodology
+* 🐧 Master Linux & Red Hat administration
+* 🌐 Strengthen network security knowledge
+* ⚙️ Learn infrastructure automation
+* 🚀 Build more real-world cloud security projects
+* 📚 Continue earning relevant certifications
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Security is not a product, but a process."
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
