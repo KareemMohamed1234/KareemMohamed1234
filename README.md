@@ -120,19 +120,19 @@ A serverless feedback and contact application built using AWS services.
 
 ### 🏆 AWS Cloud Practitioner
 
-📄 [View Certificate](./certificates/AWS-Cloud-Practitioner.pdf)
+## 📄 [View Certificate](./certificates/AWS-Cloud-Practitioner.pdf)
 
 ---
 
 ### 🏆 Red Hat Administration
 
-📄 [View Certificate](./certificas/RedHat-Administration.pdf)
+## 📄 [View Certificate](./certificas/RedHat-Administration.pdf)
 
 ---
 
 ### 🏆 Computer Networks
 
-📄 [View Certificate](./certificas/Computer-Networks.pdf)
+## 📄 [View Certificate](./certificas/Computer-Networks.pdf)
 
 ---
 
