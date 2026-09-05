@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kareem Mohamed
 
-### 🛡️ Cybersecurity Student | ☁️ AWS Cloud Security | 🌐 Network Security
+### 🛡️ Cybersecurity Student | ☁️ AWS Cloud Security | 🌐 Pentration Testing
 
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=kalilinux&logoColor=white"/>
