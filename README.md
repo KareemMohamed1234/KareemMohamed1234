@@ -162,22 +162,6 @@ A serverless feedback and contact application built using AWS services.
 | 🔎 Recon       | Subfinder, Assetfinder, httpx, Waybackurls, Katana           |
 | 🛠️ DevOps      | Git, GitHub, Linux Automation                                |
 
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -204,7 +188,6 @@ A serverless feedback and contact application built using AWS services.
 ☁️ AWS Cloud Security
 🔐 Cloud Infrastructure Security
 🐧 Advanced Linux / Red Hat Administration
-🌐 Network Security
 🛡️ Web Application Security
 ⚙️ Infrastructure Automation
 🔎 Security Testing & Reconnaissance
@@ -217,7 +200,6 @@ A serverless feedback and contact application built using AWS services.
 - ☁️ Build stronger AWS Cloud Security skills
 - 🔐 Improve penetration testing methodology
 - 🐧 Master Linux & Red Hat administration
-- 🌐 Strengthen network security knowledge
 - ⚙️ Learn infrastructure automation
 - 🚀 Build more real-world cloud security projects
 - 📚 Continue earning relevant certifications
