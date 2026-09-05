@@ -34,7 +34,6 @@ My main interests are:
 - 🔐 Cybersecurity
 - ☁️ AWS & Cloud Security
 - 🐧 Linux & Red Hat Administration
-- 🔥 Firewall Administration
 - 🛡️ Web Application Security
 - 🕵️ Penetration Testing & Security Testing
 - ⚙️ Cloud Infrastructure & Automation
