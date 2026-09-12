@@ -163,14 +163,6 @@ A serverless feedback and contact application built using AWS services.
 | 🔎 Recon       | Subfinder, Assetfinder, httpx, Waybackurls, Katana           |
 | 🛠️ DevOps      | Git, GitHub, Linux Automation                                |
 
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
 ---
 
 # 📚 Currently Learning
