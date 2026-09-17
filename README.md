@@ -139,6 +139,10 @@ A serverless feedback and contact application built using AWS services.
 
 ---
 
+### 🏆 Network Security Fundamentals
+
+## 📄 [View Certificate](./certificas/Network-Security-Fundamentals.pdf)
+
 ### 🏆 Malware analysis
 
 ## 📄 [View Certificate](./certificas/malware-analysis.pdf)
