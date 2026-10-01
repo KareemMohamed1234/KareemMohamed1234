@@ -121,6 +121,16 @@ A serverless feedback and contact application built using AWS services.
 
 ---
 
+### 🏆 HCIA-Cloud Computing V5.5 Course
+
+## 📄 [View Certificate](./certificas/HCIA-Cloud-Computing-V5.5-Course.png)
+
+---
+
+### 🏆 intro cloud
+
+## 📄 [View Certificate](./certificas/intro_cloud.PNG)
+
 ### 🏆 Red Hat Administration
 
 ## 📄 [View Certificate](./certificas/RedHat-Administration.pdf)
@@ -154,10 +164,6 @@ A serverless feedback and contact application built using AWS services.
 ## 📄 [View Certificate](./certificas/soc-certfica.jpg)
 
 ---
-
-### 🏆 HCIA-Cloud Computing V5.5 Course
-
-## 📄 [View Certificate](./certificas/HCIA-Cloud-Computing-V5.5-Course.png)
 
 # 🧰 Tools & Skills
 
