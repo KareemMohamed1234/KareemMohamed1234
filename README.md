@@ -117,7 +117,7 @@ A serverless feedback and contact application built using AWS services.
 
 ### 🏆 AWS Cloud Practitioner
 
-## 📄 [View Certificate](./certificates/AWS-Cloud-Practitioner.pdf)
+## 📄 [View Certificate](./certificas/AWS-Cloud-Practitioner.pdf)
 
 ---
 
