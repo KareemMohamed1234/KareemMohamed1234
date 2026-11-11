@@ -117,7 +117,7 @@ A serverless feedback and contact application built using AWS services.
 
 ### 🏆 AWS_Certified AI_Practitioner
 
-## 📄 [View Certificate](./certificas/AWS_Certified AI_Practitioner.pdf)
+## 📄 [View Certificate](./certificas/AWS-Certified-AI-Practitioner.pdf)
 
 ### 🏆 AWS Cloud Practitioner
 
